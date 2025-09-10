@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning computer engineering
 - 💞️ I’m looking to collaborate on cybertutorials
-- 📫 How to reach me my email pdev9954@gmail.com
+- 📫 How to reach me my email devp93620@gmail.com
   
 
 <!---
